@@ -1,0 +1,4 @@
+[
+  {"receipt_id":"miniapp-901","channel":"miniapp","package_digest":"sha256:package-a","status":"displayed","received_at":"2026-09-12T11:00:03+08:00","displayed_at":"2026-09-12T11:00:20+08:00"},
+  {"receipt_id":"audio-331","channel":"audio-guide","package_digest":"sha256:package-a","status":"accepted","received_at":"2026-09-12T11:01:44+08:00","displayed_at":null}
+]
